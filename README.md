@@ -1,4 +1,4 @@
-<img align="right" width="280" src="profile.png" alt="Godspeed630" />
+<img align="right" width="280" src="profile.jpg" alt="Godspeed630" />
 
 # Hi there, I'm Md. Jabbir Ali 👋
 
