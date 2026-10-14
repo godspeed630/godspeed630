@@ -17,7 +17,7 @@
 - REST APIs & CRUD applications
 
 ### 🛠️ Projects
-- [task-manager](https://github.com/godspeed630/task-manager) — a clean task manager with priorities, filters and localStorage persistence (Next.js + Tailwind)
+- [task-manager](https://github.com/godspeed630/task-manager) — a clean task manager with priorities, filters and localStorage persistence (Next.js + Tailwind) · [live demo](https://task-manager-godspeed630.vercel.app)
 - [portfolio-](https://github.com/godspeed630/portfolio-) — personal portfolio site (Next.js)
 - [Name--Techif](https://github.com/godspeed630/Name--Techif) — Laravel web application
 
