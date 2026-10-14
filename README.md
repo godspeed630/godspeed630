@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="220" src="profile.jpg" alt="Godspeed630" />
+  <img width="220" src="profile.png" alt="Godspeed630" />
 </p>
 
 <h1 align="center">Hi there, I'm Md. Jabbir Ali 👋</h1>
