@@ -1,10 +1,13 @@
-<img align="right" width="280" src="profile.jpg" alt="Godspeed630" />
+<p align="center">
+  <img width="220" src="profile.jpg" alt="Godspeed630" />
+</p>
 
-# Hi there, I'm Md. Jabbir Ali 👋
+<h1 align="center">Hi there, I'm Md. Jabbir Ali 👋</h1>
 
-🎓 **B.Sc. in Computer Science & Engineering** — Northern University of Business and Technology, Khulna (graduating 2026)
-
-I'm learning full-stack development and building real projects to launch my career in tech. I bring the ideas and direction, and build with modern tools to ship fast. 🚀
+<p align="center">
+  🎓 <b>B.Sc. in Computer Science & Engineering</b> — Northern University of Business and Technology, Khulna (graduating 2026)<br>
+  I'm learning full-stack development and building real projects to launch my career in tech. I bring the ideas and direction, and build with modern tools to ship fast. 🚀
+</p>
 
 ---
 
