@@ -17,14 +17,14 @@
 - REST APIs & CRUD applications
 
 ### 🛠️ Projects
-- [weather-app](https://github.com/godspeed630/weather-app) — a weather app with a sky that changes with the actual weather, plus a 5-day forecast (Next.js, Open-Meteo) · [live demo](https://weather-app-nine-red-79.vercel.app)
-- [task-manager](https://github.com/godspeed630/task-manager) — a clean task manager with priorities, filters and localStorage persistence (Next.js + Tailwind) · [live demo](https://task-manager-godspeed630.vercel.app)
-- [portfolio-](https://github.com/godspeed630/portfolio-) — personal portfolio site (Next.js)
-- [Name--Techif](https://github.com/godspeed630/Name--Techif) — Laravel web application
+- [weather-app](https://github.com/jabbirxd/weather-app) — a weather app with a sky that changes with the actual weather, plus a 5-day forecast (Next.js, Open-Meteo) · [live demo](https://weather-app-nine-red-79.vercel.app)
+- [task-manager](https://github.com/jabbirxd/task-manager) — a clean task manager with priorities, filters and localStorage persistence (Next.js + Tailwind) · [live demo](https://task-manager-jabbirxd.vercel.app)
+- [portfolio-](https://github.com/jabbirxd/portfolio-) — personal portfolio site (Next.js)
+- [Name--Techif](https://github.com/jabbirxd/Name--Techif) — Laravel web application
 
 ### 📊 GitHub Stats
-![Jabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=godspeed630&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godspeed630&layout=compact&theme=tokyonight)
+![Jabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbirxd&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabbirxd&layout=compact&theme=tokyonight)
 
 ### 📫 Connect
-- GitHub: [@godspeed630](https://github.com/godspeed630)
+- GitHub: [@jabbirxd](https://github.com/jabbirxd)
