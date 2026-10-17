@@ -1,30 +1,41 @@
 <p align="center">
-  <img width="220" src="profile.png" alt="jabbirxd" />
+  <img width="200" src="profile.png" alt="Md. Jabbir Ali" />
 </p>
 
-<h1 align="center">Hi there, I'm Md. Jabbir Ali 👋</h1>
+<h1 align="center">Hi, I'm Md. Jabbir Ali 👋</h1>
 
 <p align="center">
-  🎓 <b>B.Sc. in Computer Science & Engineering</b> — Northern University of Business and Technology, Khulna (graduating 2026)<br>
-  I'm learning full-stack development and building real projects to launch my career in tech. I bring the ideas and direction, and build with modern tools to ship fast. 🚀
+  <b>Web Developer | CADD Researcher</b><br>
+  Final-year CSE student at Northern University of Business and Technology Khulna (graduating 2026)
+</p>
+
+<p align="center">
+  <a href="https://jabbirxd.online">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/md-jabbir-ali-436613226">LinkedIn</a> ·
+  <a href="https://jabbirxd.online/cv.pdf">CV</a> ·
+  <a href="mailto:jabbirali00@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🌱 Currently learning
-- Next.js · TypeScript · Tailwind CSS
-- PHP · Laravel
-- REST APIs & CRUD applications
+### 👨‍💻 What I do
+- Build and ship web apps with Next.js, TypeScript and Tailwind CSS, deployed on Vercel
+- Built a complete Laravel e-commerce app for my university field work
+- Co-first author on a Computer-Aided Drug Discovery (CADD) manuscript, currently under review
 
 ### 🛠️ Projects
-- [weather-app](https://github.com/jabbirxd/weather-app) — a weather app with a sky that changes with the actual weather, plus a 5-day forecast (Next.js, Open-Meteo) · [live demo](https://weather-app-nine-red-79.vercel.app)
-- [task-manager](https://github.com/jabbirxd/task-manager) — a clean task manager with priorities, filters and localStorage persistence (Next.js + Tailwind) · [live demo](https://task-manager-godspeed630.vercel.app)
-- [portfolio-](https://github.com/jabbirxd/portfolio-) — personal portfolio site (Next.js)
-- [Name--Techif](https://github.com/jabbirxd/Name--Techif) — Laravel web application
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| Ajker Akash | Weather dashboard whose sky follows the real weather, with a 5-day forecast | Next.js, TypeScript, Open-Meteo | [Live](https://weather-app-nine-red-79.vercel.app) · [Code](https://github.com/jabbirxd/weather-app) |
+| Task Manager | Task manager with priorities, filters and localStorage persistence | Next.js, TypeScript, Tailwind CSS | [Live](https://task-manager-godspeed630.vercel.app) · [Code](https://github.com/jabbirxd/task-manager) |
+| Techif Store | Laravel e-commerce app: storefront, cart, checkout and a role-based admin panel (university field work, run locally) | PHP, Laravel, Livewire, MySQL | [Code](https://github.com/jabbirxd/Name--Techif) |
+| Portfolio | My portfolio with project case studies, dark/light themes and a printable resume | Next.js, TypeScript, Tailwind CSS | [Live](https://jabbirxd.online) · [Code](https://github.com/jabbirxd/portfolio-) |
 
-### 📊 GitHub Stats
-![Jabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbirxd&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabbirxd&layout=compact&theme=tokyonight)
+### 🧪 Research
+Undergraduate Researcher (Co-First Author) at Northern University of Business and Technology Khulna, in collaboration with University of Dhaka (2026 – present). Molecular docking (AutoDock Vina), 100 ns MD simulations (OpenMM), MM/GBSA binding free energy and RDKit. Manuscript submitted to a journal and currently under review.
 
-### 📫 Connect
-- GitHub: [@jabbirxd](https://github.com/jabbirxd)
+### 🧰 Tools
+Next.js · React · TypeScript · Tailwind CSS · Git & GitHub · REST APIs · Vercel · PHP · Laravel · Livewire · MySQL · RDKit · AutoDock Vina · OpenMM
+
+### 📫 Get in touch
+Open to junior web developer roles and internships: [jabbirxd.online](https://jabbirxd.online) · jabbirali00@gmail.com
